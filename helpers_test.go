@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/nikita-vanyasin/tinkoff"
+	"github.com/ruscalworld/tinkoff"
 )
 
 func helperCreateClient(tb testing.TB) *tinkoff.Client {
